@@ -16,7 +16,7 @@ Information includes:
 
 *Example:*
 
-![Test Logo](/images/concert.png)
+![concert this](/images/concert.png)
 
 
 
@@ -31,7 +31,7 @@ Information Includes:
 
 *Example:*
 
-![Test Logo](/images/spotify.png)
+![spotify this song](/images/spotify.png)
 
 
 
@@ -52,7 +52,7 @@ Information Includes:
 
 *Example:*
 
-![Test Logo](/images/movie.png)
+![movie this](/images/movie.png)
 
 
 
@@ -60,11 +60,11 @@ Information Includes:
 
 *Example:*
 
-![Test Logo](/images/random.png)
+![random](/images/random.png =100x)
 
 
 
-![Test Logo](/images/dowhat.png)
+![do what it says](/images/dowhat.png)
 
 
 ps: all 4 commands are case sensitive, lowercase
