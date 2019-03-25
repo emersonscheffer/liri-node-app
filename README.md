@@ -60,7 +60,7 @@ Information Includes:
 
 *Example:*
 
-![random](/images/random.png =100x)
+![random](/images/random.png)
 
 
 
